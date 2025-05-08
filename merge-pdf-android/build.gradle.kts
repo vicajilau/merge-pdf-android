@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.victorcarreras.merge_pdf"
+    namespace = "com.victorcarreras.merge_pdf_android"
     compileSdk = 35
 
     defaultConfig {

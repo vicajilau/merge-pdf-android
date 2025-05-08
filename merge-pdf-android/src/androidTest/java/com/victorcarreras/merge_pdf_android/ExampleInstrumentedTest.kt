@@ -1,4 +1,4 @@
-package com.victorcarreras.merge_pdf
+package com.victorcarreras.merge_pdf_android
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.victorcarreras.merge_pdf.test", appContext.packageName)
+        assertEquals("com.victorcarreras.merge_pdf_android.test", appContext.packageName)
     }
 }

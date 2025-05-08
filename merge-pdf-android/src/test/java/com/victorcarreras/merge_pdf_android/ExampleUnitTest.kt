@@ -1,4 +1,4 @@
-package com.victorcarreras.merge_pdf
+package com.victorcarreras.merge_pdf_android
 
 import org.junit.Test
 

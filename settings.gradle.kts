@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "merge-pdf-android"
 include(":app")
-include(":merge-pdf")
+include(":merge-pdf-android")
